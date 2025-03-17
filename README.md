@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ShreyashReshu
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning AI and Ml
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on web Dev projects
+- 📫 How to reach me email - shreyashreshu6@gmail.com
+- 😄 Pronouns: He/Him
+
 
 <!---
 ShreyashReshu/ShreyashReshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
