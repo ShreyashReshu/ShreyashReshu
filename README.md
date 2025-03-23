@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShreyashReshu
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning AI and Ml
+- 👀 I’m interested in Data Analytics and SDE
 - 💞️ I’m looking to collaborate on web Dev projects
 - 📫 How to reach me email - shreyashreshu6@gmail.com
 - 😄 Pronouns: He/Him
